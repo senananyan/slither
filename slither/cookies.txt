@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.slither.io	TRUE	/	FALSE	1999999999	__cfduid	d00ce2e43608751f8375c42025c1820721591716845
+slither.io	TRUE	/	FALSE	1999999999	SameSite	Lax
+
